@@ -43,8 +43,3 @@ if(jugador=="tijeras"&&compu=="papel"){
 if(jugador=="piedra"&&compu=="tijeras"){
 	console.log("Jugador Gana");
 }
-
-
-
-
-
